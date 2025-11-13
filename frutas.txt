@@ -1,0 +1,1 @@
+& "C:/Program Files/Python313/python.exe" c:/Users/prog2/Desktop/Pamy/frutastxt3.py
